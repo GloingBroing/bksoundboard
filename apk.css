@@ -1,0 +1,15 @@
+body{
+  background-color: #fff;
+     color: #666666;
+     font-family: apk;
+        margin: 0;
+ }
+
+@font-face {
+	font-family: "apk";
+	src: url("https://gloingbroing.neocities.org/bksoundboard/fonts/DroidLogo-Regular.ttf");
+}
+a {
+    color: #666666;
+	font-family: "apk";
+	text-decoration: none;
